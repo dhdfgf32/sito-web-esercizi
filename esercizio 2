@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+  <title>Riassunto del Sistema Operativo e Avvio</title>
+  <style>
+    body {
+      background-color: #f2f2f2; 
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+  </style>
+<a href="es.html">es</a> 
+</head>
+<body>
+    <h1> Il Sistema Operativo e il suo avvio</h1>
+    <h2>1)Sistema Operativo:</h2>
+    Il sistema operativo è il software principale che gestisce le risorse del computer e fornisce un'interfaccia utente per interagire con esse. <br>
+       Tra i sistemi operativi più comuni ci sono:<br>
+    <ul>
+      <li><strong>Windows</strong>: Sistema operativo sviluppato da Microsoft. Le versioni attuali includono Windows 10 e Windows 11.</li><br>
+      <li><strong>MacOS</strong>: Sistema operativo sviluppato da Apple per i suoi computer Macintosh.</li><br>
+      <li><strong>Linux</strong>: Sistema operativo open source basato su kernel Linux, con diverse distribuzioni come Ubuntu, Fedora, Debian, ecc.</li><br>
+      <li><strong>iOS</strong>: Sistema operativo sviluppato da Apple per dispositivi mobili come iPhone e iPad.</li><br> 
+      <li><strong>Android</strong>: Sistema operativo open source basato su kernel Linux, principalmente utilizzato su dispositivi mobili e tablet.</li><br>
+      <li><strong>Unix</strong>: E' un sistema operativo multiutente e multitasking sviluppato negli anni 70. </li><br> 
+    </ul>
+  \Esistono varie differenze tra i sistemi operativi, incluse le interfacce utente, le funzionalità, la compatibilità hardware e software, <br>
+  la sicurezza e la gestione delle risorse. Una delle differenze storiche importanti è rappresentata da MS-DOS.<br>
+<br> 
+   <strong>MS-DOS (Microsoft Disk Operating System):</strong><br>
+E' un sistema operativo a linea di comando sviluppato da Microsoft, si differenziava per la sua interfaccia testuale e la mancanza di un'interfaccia grafica utente<br>
+MS-DOS era noto per la sua flessibilità e compatibilità con un'ampia gamma di hardware e software.<br>
+Tuttavia, MS-DOS aveva limitazioni significative rispetto ai moderni sistemi operativi,<br>
+come la mancanza di supporto per la multitasking e la protezione della memoria, rendendolo meno adatto per le esigenze moderne. <br>
+ <hr>
+<h2>2)Avvio del Sistema Operativo:</h2>
+    Quando accendi il computer, il processo di avvio del sistema operativo comprende diverse fasi, tra cui:<br>
+    <ol>
+      <li>Il BIOS (Basic Input/Output System) esegue il POST (Power-On Self-Test) per verificare l'integrità dell'hardware.</li><br>
+      <li>Il BIOS cerca il caricatore di avvio (boot loader) nel dispositivo di avvio, come l'hard disk o un'unità USB.</li><br>
+      <li>Il caricatore di avvio carica il kernel del sistema operativo in memoria e avvia il sistema operativo.</li><br>
+    </ol>
+ 
+ <style>
+    .container {
+      display: flex; 
+    }
+    .container img {
+      margin-right: 50px; 
+    }
+  </style>
+
+<div class="container">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-58dfd8cef0c3dc5f4a28b727a14c4350-lq"  alt="https://qph.cf2.quoracdn.net/main-qimg-58dfd8cef0c3dc5f4a28b727a14c4350-lq"  width="450"
+ </div> 
+<img src="https://i0.wp.com/diengcyber.com/wp-content/uploads/2024/01/shutterstock_559459693-scaled-2.jpg?fit=2560%2C1707&ssl=1"  alt="https://i0.wp.com/diengcyber.com/wp-content/uploads/2024/01/shutterstock_559459693-scaled-2.jpg?fit=2560%2C1707&ssl=1"  width="620"
+</body>
+</html>
