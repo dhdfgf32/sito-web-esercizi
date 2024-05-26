@@ -16,9 +16,9 @@
         <section>
             <h2>Esercizi</h2>
             <ul>
-                <li><a href="esercizio1/index.html">Esercizio 1</a></li>
-                <li><a href="esercizio2/index.html">Esercizio 2</a></li>
-                <li><a href="esercizioFinale/index.html">Esercizio Finale</a></li>
+                <li><a href="esercizio 1.html">esercizio 1</a></li>
+                <li><a href="esercizio 2.html">esercizio 2</a></li>
+                <li><a href="esercizioFinale.html">esercizio finale</a></li>
             </ul>
         </section>
     </main> 
