@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8"> 
+    <title>Sistema Operativo</title>
+<a href="index.html">index.html</a> 
+</head>
+<body>
+    <h1>-Il Sistema Operativo-</h1>
+       Un sistema operativo (SO) è un software che gestisce le risorse hardware e fornisce servizi di base ai programmi applicativi. <br>
+       È il primo software che viene eseguito quando un computer è acceso e gestisce l'accesso alle risorse del sistema, come CPU, memoria e dispositivi di input/output.<br>
+  
+    <h2>Sistemi Operativi Attuali</h2>
+    <ul>
+        <li><strong>Windows:</strong> Sistema operativo sviluppato da Microsoft. Le versioni attuali includono Windows 10 e Windows 11.</li>
+        <li><strong>macOS:</strong> Sistema operativo sviluppato da Apple per i suoi computer Macintosh.</li>
+        <li><strong>Linux:</strong> Sistema operativo open source basato su kernel Linux, con diverse distribuzioni come Ubuntu, Fedora, Debian, ecc.</li>
+        <li><strong>iOS:</strong> Sistema operativo sviluppato da Apple per dispositivi mobili come iPhone e iPad.</li>
+        <li><strong>Android:</strong> Sistema operativo open source basato su kernel Linux, principalmente utilizzato su dispositivi mobili e tablet.</li>
+    </ul>
+    
+    <h2>Differenze tra i Sistemi Operativi</h2>
+    <p>Esistono varie differenze tra i sistemi operativi, incluse le interfacce utente, le funzionalità, la compatibilità hardware e software, la sicurezza e la gestione delle risorse. 
+       Una delle differenze storiche importanti è rappresentata da MS-DOS.</p>
+    
+    <h2>MS-DOS (Microsoft Disk Operating System)</h2>
+       MS-DOS è un sistema operativo a linea di comando sviluppato da Microsoft, ampiamente utilizzato nei computer personali durante gli anni '80 e '90. <br>
+       Si differenziava per la sua interfaccia testuale e la mancanza di un'interfaccia grafica utente (GUI) come le versioni successive di Windows. <br>
+       MS-DOS era noto per la sua flessibilità e compatibilità con un'ampia gamma di hardware e software.<br>
+       Tuttavia, MS-DOS aveva limitazioni significative rispetto ai moderni sistemi operativi, <br>
+       come la mancanza di supporto per la multitasking e la protezione della memoria, rendendolo meno adatto per le esigenze moderne.<br>
+</body>
+</html>
